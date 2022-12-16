@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.responsive-container {
+  background-color: #1c1c2b;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.heading {
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 20px;
+  color: #5a8dee;
+}

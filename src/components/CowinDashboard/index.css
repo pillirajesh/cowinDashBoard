@@ -1,0 +1,62 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #161625;
+  background-size: cover;
+  padding: 30px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.main-heading {
+  color: #64c2a6;
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.main-paragraph {
+  color: #6c757d;
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.website-logo {
+  height: 35px;
+  width: 35px;
+  margin-right: 10px;
+}
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1c1c2b;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.fail-description {
+  font-family: 'bree serif';
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 25px;
+}
+
+.fail-image {
+  height: 500px;
+  width: 600px;
+}
